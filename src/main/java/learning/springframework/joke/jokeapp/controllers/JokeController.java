@@ -21,5 +21,4 @@ public class JokeController {
         return "chucknorris";
     }
 
-
 }
